@@ -117,33 +117,6 @@ cd src\alternative-bots\GreedySurvivalBot
 GreedySurvivalBot.cmd
 ```
 
-## Bash
-
-Jika menggunakan Linux atau macOS, bot dapat dijalankan melalui file `.sh` yang tersedia pada masing-masing folder bot.
-
-Contoh menjalankan bot utama:
-
-```bash
-cd src/main-bot/GreedyMainBot
-./GreedyMainBot.sh
-```
-
-Contoh menjalankan bot alternatif:
-
-```bash
-cd src/alternative-bots/GreedyClosestBot
-./GreedyClosestBot.sh
-```
-
-```bash
-cd src/alternative-bots/GreedyEnergyBot
-./GreedyEnergyBot.sh
-```
-
-```bash
-cd src/alternative-bots/GreedySurvivalBot
-./GreedySurvivalBot.sh
-```
 
 ## Kendala Saat Development
 
