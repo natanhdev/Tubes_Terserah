@@ -1,0 +1,10 @@
+{
+  "name": "Greedy Energy Bot",
+  "version": "1.0",
+  "authors": ["Natan"],
+  "description": "Bot alternatif dengan strategi greedy menyerang musuh berenergi paling rendah.",
+  "homepage": "",
+  "countryCodes": ["id"],
+  "platform": ".Net 8.0",
+  "programmingLang": "C#"
+}

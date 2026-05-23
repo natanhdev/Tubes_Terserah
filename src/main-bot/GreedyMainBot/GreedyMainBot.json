@@ -1,0 +1,10 @@
+{
+  "name": "Greedy Main Bot",
+  "version": "1.0",
+  "authors": ["Natan"],
+  "description": "Bot utama dengan strategi greedy berbasis evaluasi target terbaik.",
+  "homepage": "",
+  "countryCodes": ["id"],
+  "platform": ".Net 8.0",
+  "programmingLang": "C#"
+}
