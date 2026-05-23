@@ -185,29 +185,14 @@ Beberapa kendala yang ditemukan selama development adalah sebagai berikut:
 3. **Kesalahan sintaks C#**  
    Beberapa error muncul karena perbedaan huruf besar-kecil pada nama variabel, kurang tanda titik koma, atau nama constructor yang tidak sama dengan nama class.
 
-## Struktur Repository
-
-```text
-Tubes_Terserah/
-├── doc/
-│   └── laporan.pdf
-├── src/
-│   ├── main-bot/
-│   │   └── GreedyMainBot/
-│   └── alternative-bots/
-│       ├── GreedyClosestBot/
-│       ├── GreedyEnergyBot/
-│       └── GreedySurvivalBot/
-└── README.md
-```
 
 ## Author
 
-| Nama |
-|---|
-| Natan |
-| Rendi |
-| Arbani |
+| Nama | NIM |
+|---|---|
+| Natan | 124140175 |
+| Rendi | 124140030 |
+| Arbani | 124140139 |
 
 Kelompok: **Terserah**  
 Mata Kuliah: **Strategi Algoritma**  
