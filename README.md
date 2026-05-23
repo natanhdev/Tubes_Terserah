@@ -24,13 +24,6 @@ Algoritma greedy digunakan karena bot harus mengambil keputusan secara cepat ber
 4. **GreedyMainBot**  
    Bot utama menggunakan strategi **Greedy by Opportunity Score**, yaitu memilih target berdasarkan skor gabungan dari jarak musuh, energi musuh, dan kelayakan jarak tembak. Target dengan skor tertinggi dipilih sebagai target utama pada kondisi saat itu.
 
-   Rumus evaluasi yang digunakan adalah:
-
-   ```text
-   Score(target) = 0.45 × DistanceScore + 0.35 × EnergyScore + 0.20 × RangeScore
-   ```
-
-   `DistanceScore` memberikan prioritas kepada musuh yang lebih dekat, `EnergyScore` memberikan prioritas kepada musuh dengan energi lebih rendah, sedangkan `RangeScore` memberikan nilai tambahan kepada musuh yang berada dalam jarak tembak efektif.
 
 ## Requirement
 
@@ -40,18 +33,6 @@ Sebelum menjalankan program, pastikan perangkat telah memiliki beberapa dependen
 - **.NET SDK 8.0** atau versi yang kompatibel untuk melakukan build program C#.
 - **Robocode Tank Royale GUI 0.30.0** sebagai arena pertandingan bot.
 - **Visual Studio Code** atau editor lain untuk membuka dan mengedit source code.
-
-Untuk mengecek versi Java:
-
-```bash
-java -version
-```
-
-Untuk mengecek versi .NET:
-
-```bash
-dotnet --version
-```
 
 ## Cara Menjalankan Program
 
